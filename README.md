@@ -8,7 +8,7 @@ This project is a simple real-time human detection system built with Python, Ope
 - 🎯 Uses MediaPipe Pose for accurate body detection
 - 🔊 Plays a beep sound when a human is detected
 - 🛑 Automatically stops after a configurable number of seconds
-- 🧠 Simple and easy-to-read Python code
+- 🧠 Simple and easy-to-read Python code 
 
 ## 📦 Requirements
 
